@@ -1,6 +1,5 @@
 ## Bilibili遇见狂神说，你的编程伙伴
 
-> 拒绝白嫖，记得收藏，三连
 
 > QQ：24736743  微信公众号：狂神说
 
@@ -48,17 +47,3 @@
 32. 内网穿透 https://www.bilibili.com/video/BV17K4y187A2
 33. 二进制到汇编学习 https://www.bilibili.com/video/BV1ni4y1G7B9
 34. 设计模式 https://www.bilibili.com/video/BV1mc411h719
-35. 未完待续....
-
-
-
-### B站主页
-
-![image-20200731101307622](assets/image-20200731101307622.png)
-
-![image-20200731102444479](assets/image-20200731102444479.png)
-
-### 如果有帮助到您，可以赞赏支持哦！
-
-
-![赞赏](https://images.gitee.com/uploads/images/2020/0322/131035_d434c4ed_2287834.jpeg "赞赏码.jpg")
